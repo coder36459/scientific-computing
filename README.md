@@ -1,3 +1,3 @@
 # Scientific Computing with Python Projects
-Arithmetic Formatter
-Time Calculator
+- Arithmetic Formatter
+- Time Calculator
